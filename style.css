@@ -1,0 +1,18 @@
+/*
+Theme Name: Inlay Child
+Theme URL: http://hostinger-tutorials.com
+Description: Inlay Child Theme
+Author: Julie Jensboel
+Author URL: http://hostinger-tutorials.com
+Template: Inlay
+Version: 1.0.0
+Text Domain: Inlay-Child
+*/ 
+
+.body, p, .section-content p, .post-content, .post-content p, .page-content, .page-content p, .cpt-excerpt, .cpt-excerpt p, .cpt-content, .cpt-content:not(.dashicons), .cpt-content p, .sidebar {
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 29px;
+    text-decoration: none;
+}
