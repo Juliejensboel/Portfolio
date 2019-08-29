@@ -1,0 +1,25 @@
+/*
+Theme Name: Inlay Child
+Theme URL: http://hostinger-tutorials.com
+Description: Inlay Child Theme
+Author: Julie Jensboel
+Author URL: http://hostinger-tutorials.com
+Template: Inlay
+Version: 1.0.0
+Text Domain: Inlay-Child
+*/ 
+
+.section-columns {
+    margin: 90px 15px;
+}
+header {
+    background-color: #EEEEEE;
+}
+
+#site-header {
+    background-color: #EEEEEE;
+}
+
+header#site-header {
+    background-color: #EEEEEE;
+}
